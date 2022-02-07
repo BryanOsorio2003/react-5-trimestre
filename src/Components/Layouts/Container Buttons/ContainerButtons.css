@@ -1,7 +1,10 @@
+body{
+    background-color: black;
+}
 .btnContainer{
+    margin-top: 20px;
     display: flex;
     justify-content: center;
-    background-color: red;
     gap: 20px;  
     height: 3vh;
 }

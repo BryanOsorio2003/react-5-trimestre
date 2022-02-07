@@ -6,8 +6,8 @@ import { Image } from "../../UI/Image/Image";
 
 export const Main = () => {
   return <div>
-      <BtnContainer btnContainer='btnContainer'/>
-      <Image />
+      <BtnContainer btnContainer='btnContainer' />
+      <Image imgGenshin='imgGenshin' />
       <FooterButtons />
   </div>;
 };

@@ -1,12 +1,11 @@
 import { ButtonUI } from "../../UI/ButtonUI/ButtonUI";
 import './ContainerButtons.css'
 
-
 export const BtnContainer = ({btnContainer}) => {
   return <div className={btnContainer}>
-    <ButtonUI text="Home"/>
-    <ButtonUI text="About Us"/>
-    <ButtonUI text="Contact"/>
+    <ButtonUI ClassButtons='ClassButtons' text="Home"/>
+    <ButtonUI ClassButtons='ClassButtons' text="About Us"/>
+    <ButtonUI ClassButtons='ClassButtons' text="Contact"/>
   </div>;
 };
 
