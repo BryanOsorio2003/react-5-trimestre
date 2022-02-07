@@ -8,6 +8,6 @@ export const Main = () => {
   return <div>
       <BtnContainer btnContainer='btnContainer' />
       <Image imgGenshin='imgGenshin' />
-      <FooterButtons />
+      <FooterButtons FooterButtons='FooterButtons' />
   </div>;
 };

@@ -1,9 +1,8 @@
 .ClassButtons{
     font-size: 16px;
     border-radius: 20px;
-    /* background-color: red; */
 }
 .ClassButtons:hover{
     border-color: red;
-    /* filter: grayscale(90%); */
+
 }
