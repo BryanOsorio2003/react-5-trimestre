@@ -1,0 +1,7 @@
+.btnContainer{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    gap: 20px;  
+    height: 3vh;
+}
